@@ -1,0 +1,39 @@
+{
+  "Version": 1,
+  "Hash": "Eu6BBTQWoGxB+YCq4U0n7Ro1/EKYL/3zMcIrSBq8yvQ=",
+  "Source": "AuthorsWebApi",
+  "BasePath": "_content/AuthorsWebApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "AuthorsWebApi\\wwwroot",
+      "Source": "AuthorsWebApi",
+      "ContentRoot": "F:\\Udemy\\Construyendo Web APIs RESTful con ASP.NET Core 6\\AuthorsWebApi\\AuthorsWebApi\\wwwroot\\",
+      "BasePath": "_content/AuthorsWebApi",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "F:\\Udemy\\Construyendo Web APIs RESTful con ASP.NET Core 6\\AuthorsWebApi\\AuthorsWebApi\\wwwroot\\file1.txt",
+      "SourceId": "AuthorsWebApi",
+      "SourceType": "Discovered",
+      "ContentRoot": "F:\\Udemy\\Construyendo Web APIs RESTful con ASP.NET Core 6\\AuthorsWebApi\\AuthorsWebApi\\wwwroot\\",
+      "BasePath": "_content/AuthorsWebApi",
+      "RelativePath": "file1.txt",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\file1.txt"
+    }
+  ]
+}

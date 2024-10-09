@@ -1,0 +1,9 @@
+Initiated process
+Proccess in ejecution: 06/06/2024 01:33:29
+Proccess in ejecution: 06/06/2024 01:33:34
+Proccess in ejecution: 06/06/2024 01:33:39
+Proccess in ejecution: 06/06/2024 01:33:44
+Proccess in ejecution: 06/06/2024 01:33:49
+Proccess in ejecution: 06/06/2024 01:33:54
+Proccess in ejecution: 06/06/2024 01:33:59
+Finalized process
